@@ -6,6 +6,7 @@ public class Livre extends Article {
 	private String Auteur;
 	private String Editeur;
 	private String Genre;
+	private String date;
 	/**
 	 * @param unPrixHT
 	 * @param uneDescription
